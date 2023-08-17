@@ -4,5 +4,5 @@
 - Correo : eduar.ere@gmail.com
 
 ## Actividad 1
-- p01_HolaMundo
+- _p01_HolaMundo
 - Programa 2
