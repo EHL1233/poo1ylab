@@ -5,4 +5,6 @@
 
 ## Actividad 1
 - _p01_HolaMundo
-- Programa 2
+- _p02_AreaCirculo
+- _p03_AreaTriangulo
+- _p04_PagaTrabajodor
