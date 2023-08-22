@@ -5,9 +5,11 @@ public class _p07_OperadoresAsignacion {
         // Borrar pantalla de la consola
         System.out.print("\033[H\033[2J"); System.out.flush();
 
+        // Pedir datos de entrada y asignarlo a variable
         System.out.print("Dame un numero ? ");
         float num = new Scanner(System.in).nextInt();
 
+        // Imprimir en consola
         System.out.printf("El numero original es : %.2f \n", num);
         System.out.printf("Incremantar 1 : %.2f \n", ++num);
         System.out.printf("Sumar 80 : %.2f \n", num+=80);
