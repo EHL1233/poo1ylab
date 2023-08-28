@@ -30,3 +30,9 @@
 - _p18_TrabajandoConstantes
 - _p19_TrabajandoCaracteres
 - _p20_ConversionTipos
+
+## Ejecución condicional - Sentencias if e if / else
+- _p21_VerificaNumero
+- _p22_VerificaSuma
+- _p23_CovertirTemperaturas
+- _p24_PagaTrabajadorv2
