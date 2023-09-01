@@ -42,3 +42,9 @@
 - _p26_TipoAngulo
 - _p27_AceptarEstudiante
 - _p28_LeyDeNewton
+
+## Ejecución condicional - Sentencia switch
+- _p29_Calculadora
+- _p30_DiaSemana
+- _p31_NumerosRomanos
+- _p32_PagoEstacionamiento
