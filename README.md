@@ -63,3 +63,9 @@
 - _p41_ProcesaCalificaciones
 - _p42_TablaMultiplicar
 - _p43_ConteoNumeros
+
+## Ejecución repe,,va – parte 2 - while
+- _p44_ParesAscendente
+- _p45_ImparesDescendente
+- _p46_TablaConversion
+- _p47_ConjeturaCollatz
