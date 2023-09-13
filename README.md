@@ -64,7 +64,7 @@
 - _p42_TablaMultiplicar
 - _p43_ConteoNumeros
 
-## Ejecución repe,,va – parte 2 - while
+## Ejecución repetitiva – parte 2 - while
 - _p44_ParesAscendente
 - _p45_ImparesDescendente
 - _p46_TablaConversion
@@ -75,3 +75,10 @@
 - _p49_ParesDescendente  
 - _p50_ConversionTemperaturas
 - _p51_SerieFibonaci
+
+## Ejecución repetitiva - parte 3 - for
+- _p52_Numeros1aN
+- _p53_NumerosNa1
+- _p54_ArribaAbajo
+- _p55_SumaParesImpares
+- _p56_SumaPromedio
