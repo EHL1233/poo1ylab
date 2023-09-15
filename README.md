@@ -82,3 +82,9 @@
 - _p54_ArribaAbajo
 - _p55_SumaParesImpares
 - _p56_SumaPromedio
+
+## Ejecución repetitiva – parte 4 - for
+- _p57_TablasMultiplicar
+- _p58_Piramide
+- _p59_FactorialNumeros
+- _p60_SumaTerminos
