@@ -88,3 +88,9 @@
 - _p58_Piramide
 - _p59_FactorialNumeros
 - _p60_SumaTerminos
+
+## Práctica 4 - Ejecución repetitiva - for
+- _p61_SecuenciaNumeros1
+- _p62_SecuenciaNumeros2
+- _p63_SumaTerminos1
+- _p64_SumaTerminos2
