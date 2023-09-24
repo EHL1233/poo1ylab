@@ -101,3 +101,17 @@
 - _p67_SumaRango
 - _p68_TablaMultiplicar
 - _p69_CalificacionLetra
+
+## Funciones – parte 2
+- _p70_MayorTresNumeros
+- _p71_SumaDigitos
+- _p72_SumaParesImpares
+- _p73_Factorial
+- _p74_CuadroCaracter
+
+## Practica 05 - Funciones
+- _p75_NumeroMenor
+- _p76_DiaSemana  
+- _p77_MedidasLongitud  
+- _p78_SumaMultiplos
+- _p79_Angulo
