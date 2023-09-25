@@ -115,3 +115,6 @@
 - _p77_MedidasLongitud  
 - _p78_SumaMultiplos
 - _p79_Angulo
+
+## Primer examen parcial
+- _p80_PrimerExamenParcial
