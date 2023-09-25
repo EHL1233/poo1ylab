@@ -8,7 +8,7 @@ public class _p77_MedidasLongitud {
         System.out.printf("La convercion de %.2fm es %.2fft",n,n*3.281); // imprimir en consola con paso de parametros 
     }
     public static void pulgadas_centrimetros(float n) {   // Funcion para convertir pulgadas a centimetros con paso de parametros
-         System.out.printf("La convercion de %.2fin es %.2fcm",n,n*2.54); // Imprimir en consola con paso de parametros 
+        System.out.printf("La convercion de %.2fin es %.2fcm",n,n*2.54); // Imprimir en consola con paso de parametros 
     }
     public static void main(String[] args) {  // Funcion principal 
         int op;
