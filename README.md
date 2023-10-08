@@ -118,3 +118,22 @@
 
 ## Primer examen parcial
 - _p80_PrimerExamenParcial
+
+## Arreglos – Parte 1
+- _p81_InicializaArregloNumeros
+- _p82_InicializaArregloCadenas
+- _p83_InicializaNombresEdades
+- _p84_LeerArregloCalificaciones
+- _p85_NombresEdades
+
+## Arreglos – Parte 2
+- _p86_ArregloMostrar
+- _p87_ArregloTemperaturas
+- _p88_Aleatorios
+- _p89_ArregloAleatorios
+
+## Practica 06 – Arreglos
+- _p90_Temperaturas
+- _p91_MayoresPromedio
+- _p92_MayorMenor
+- _p93_ParesImpares
