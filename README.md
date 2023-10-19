@@ -148,3 +148,14 @@
 - _p98_Circulo
 - _p99_Rectangulo
 - _p100_Articulo
+
+## Programación Orientada a Objetos – Parte 2
+- _p101_TrabajoPersona
+- _p102_AutorLibro
+- _p103_ClienteFactura
+
+## Programación Orientada a Objetos – Parte 4
+- _p110_CuentaBancariaV1
+
+## Programación Orientada a Objetos – Parte 5
+- _p111_CuentaBancariaV2
