@@ -158,6 +158,14 @@
 - _p104_PuntoCirculo
 - _p105_PuntoTriangulo
 
+## Programación Orientada a Objetos – Parte 3
+- _p106_Persona
+- _p107_Forma 
+
+## Practica 09 – POO – Parte 3
+- _p108_Vehiculo
+- _p109_FormaV2
+
 ## Programación Orientada a Objetos – Parte 4
 - _p110_CuentaBancariaV1
 
