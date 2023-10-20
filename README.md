@@ -154,6 +154,10 @@
 - _p102_AutorLibro
 - _p103_ClienteFactura
 
+## Practica 08 - POO - Parte 2
+- _p104_PuntoCirculo
+- _p105_PuntoTriangulo
+
 ## Programación Orientada a Objetos – Parte 4
 - _p110_CuentaBancariaV1
 
