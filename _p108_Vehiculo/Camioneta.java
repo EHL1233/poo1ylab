@@ -6,11 +6,6 @@ public class Camioneta extends Vehiculo{  // Clase Camioneta que hereda de la cl
     private int Ejes;
 
     public Camioneta(){}  // Constructor de la clase
-    public Camioneta(String serie, String marca, int año, double precio, double capacidad, int ejes){ // inicializa los atributos 
-        super(serie, marca, año, precio);  // LLama al constructor de la clase padre 
-        Capcidad=capacidad;
-        Ejes=ejes;
-    }
     public Camioneta(Vehiculo vehiculo, double capacidad, int ejes){  // Consructor de la clase 
         super(vehiculo.Serie, vehiculo.Marca, vehiculo.Año, vehiculo.Precio); // LLama al constructor de la clase padre 
         Capcidad=capacidad;

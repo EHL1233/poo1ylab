@@ -6,11 +6,6 @@ public class Compacto extends Vehiculo {  // Clase Compacto que hereda de la cla
     private int Puertas;
 
     public Compacto(){}  // Constructor de la clase 
-    public Compacto(String serie, String marca, int año, double precio, int pasajeros, int puertas){ // Inicializa los atributos de la clase
-        super(serie, marca, año, precio);  // LLama al constructor de la clase padre
-        Pasajeros=pasajeros;
-        Puertas=puertas;
-    }
     public Compacto(Vehiculo vehiculo, int pasajeros, int puertas){  // Constructor de la clase 
         super(vehiculo.Serie, vehiculo.Marca, vehiculo.Año, vehiculo.Precio);  // LLama al constructor de la clase padre 
         Pasajeros=pasajeros;
