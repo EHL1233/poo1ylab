@@ -174,3 +174,6 @@
 
 ## Practica 10 – POO – Parte 4 y 5
 - _p112_ControlVentas
+
+## Segundo Examen Parcial – POO y Lab
+- _p113_SegundoExamenParcial
