@@ -171,3 +171,6 @@
 
 ## Programación Orientada a Objetos – Parte 5
 - _p111_CuentaBancariaV2
+
+## Practica 10 – POO – Parte 4 y 5
+- _p112_ControlVentas
