@@ -177,3 +177,26 @@
 
 ## Segundo Examen Parcial – POO y Lab
 - _p113_SegundoExamenParcial
+
+## Programación Orientada a Objetos – Interfaces
+- _p114_Animal
+- _p115_Telefono
+- _p116_Juego
+- _p117_FiguraGeometrica
+
+## Programación Orientada a Objetos – Interfaces - Herencia
+- _p118_Calculadora
+- _p119_Organismo
+
+## Practica 11 – POO – Interfaces
+- _p120_Vehiculo
+
+
+## vdfvodfvf
+- _p145_EstudianteGUI_V1
+
+## Interfaz Gráfica de Usuario– Parte 3
+- _p146_EstudianteGUI_V2
+
+## Tercer Examen Parcial – POO y Lab
+- _p147_TercerExamenParcial
