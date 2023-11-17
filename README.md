@@ -191,8 +191,7 @@
 ## Practica 11 – POO – Interfaces
 - _p120_Vehiculo
 
-
-## vdfvodfvf
+## Interfaz Gráfica de Usuario– Parte 2
 - _p145_EstudianteGUI_V1
 
 ## Interfaz Gráfica de Usuario– Parte 3
